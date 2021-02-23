@@ -1,0 +1,65 @@
+body {background-color:rgb(29, 28, 28);}
+
+h1{
+    text-align: center;
+    font-size: 72px;
+    color: white;
+    font-style: italic;
+}
+
+h2{
+    text-align: center;
+    font-size: 36px;
+}
+
+h3{
+    text-align: center;
+    font-size: 72px;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.top-under-header{
+    height: 65px;
+    background-color: white;
+    text-align: center;
+    font-size: 36px;
+
+}
+
+.voice-talent{
+    border-radius: 25px;
+    height: 225px;
+    width: 25%;
+    background-color: red;
+}
+
+.book-jay{
+    float: right;
+    border-radius: 25px;
+    height: 225px;
+    width: 25%;
+    background-color: green;
+
+}
+.image{
+    display: block;
+    margin-top: -300px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+}
+
+.hear-me-out{
+    margin: auto;
+    margin-top: -175px;
+    border-radius: 25px;
+    height: 225px;
+    width: 25%;
+    background-color: yellow;
+}
